@@ -16,7 +16,7 @@ namespace Pong.Models
             {
                 if (Ball.xAxis > 14)
                 {
-                    randomPrecison = rng.Next(85, 100);
+                    randomPrecison = rng.Next(87, 96);
                     if (Ball.yAxis - 1 < rivalUpperY && rivalUpperY != 0)
                     {
                         rivalUpperY--;
@@ -50,3 +50,4 @@ namespace Pong.Models
         }
     }
 }
+

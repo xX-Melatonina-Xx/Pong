@@ -1,0 +1,14 @@
+D:\c# projects\GitHub\Pong\Pong\Pong\bin\Debug\net8.0\Pong.exe
+D:\c# projects\GitHub\Pong\Pong\Pong\bin\Debug\net8.0\Pong.deps.json
+D:\c# projects\GitHub\Pong\Pong\Pong\bin\Debug\net8.0\Pong.runtimeconfig.json
+D:\c# projects\GitHub\Pong\Pong\Pong\bin\Debug\net8.0\Pong.dll
+D:\c# projects\GitHub\Pong\Pong\Pong\bin\Debug\net8.0\Pong.pdb
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\Pong.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\Pong.AssemblyInfoInputs.cache
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\Pong.AssemblyInfo.cs
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\Pong.csproj.CoreCompileInputs.cache
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\Pong.dll
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\refint\Pong.dll
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\Pong.pdb
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\Pong.genruntimeconfig.cache
+D:\c# projects\GitHub\Pong\Pong\Pong\obj\Debug\net8.0\ref\Pong.dll
